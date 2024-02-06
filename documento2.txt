@@ -1,1 +1,2 @@
 Nuevos cambios en documento1.txt
+Nuevos cambios en documento2.txt
